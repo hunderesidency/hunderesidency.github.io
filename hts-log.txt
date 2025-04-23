@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Apr 2025 15:22:06 at https://hunderresidency0.wixsite.com/homestay-3 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hunderresidency0.wixsite.com/homestay-3 -O1 "C:\My Web Sites\hhhhhhhhhhhh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:22:26	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/s (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:26	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/t (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:26	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/ (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/media/emptystate.85a4add5.svg (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/api/ (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/envelope/ (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/sitemap.xml (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/feed.xml (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/decodeURIComponent(e (from https://hunderresidency0.wixsite.com/homestay-3)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/homestay-3/s (from https://hunderresidency0.wixsite.com/homestay-3/team-4)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/homestay-3/t (from https://hunderresidency0.wixsite.com/homestay-3/team-4)
+15:22:37	Error: 	"Bad Request" (400) at link https://hunderresidency0.wixsite.com/homestay-3/robots.txt (from https://hunderresidency0.wixsite.com/homestay-3/team-4)
+15:22:37	Error: 	"Not Found" (404) at link https://hunderresidency0.wixsite.com/homestay-3/feed.xml (from https://hunderresidency0.wixsite.com/homestay-3/team-4)
+15:22:37	Error: 	"Bad Request" (400) at link https://hunderresidency0.wixsite.com/homestay-3/decodeURIComponent(e (from https://hunderresidency0.wixsite.com/homestay-3/team-4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 51 links scanned, 36 files written (2311861 bytes overall) [887820 bytes received at 28639 bytes/sec], 2077672 bytes transferred using HTTP compression in 28 files, ratio 27%, 1.8 requests per connection
+(14 errors, 0 warnings, 0 messages)
